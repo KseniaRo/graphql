@@ -6,7 +6,7 @@ const authorSchema = new Schema({
   age: Number
 });
 
-//using mongoose as modeling environment(to communictae wuth and shape your data-something like Sequalize and postgrel)
+//using mongoose as modeling environment(to communictae wuth and shape your data-something like Sequalize and postgrelsql)
 //mongose is ODM Object Documet Mapper
 //and SEqualize id Object Relational mapper
 //Postrgress is system that talks to SQ database
